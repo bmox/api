@@ -1,2 +1,2 @@
 flask
-py-smartreply
+py-smartreply==0.0.1
